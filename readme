@@ -2,3 +2,8 @@
       https://blog.csdn.net/Kprogram/article/details/124375883
 关于测试：
        去build文件夹下 ->make 需要的板块 -> ./test/板块
+
+p0:完成可持久化字典树。
+p1：lru-k；
+    页面置换；
+p2:b+树
